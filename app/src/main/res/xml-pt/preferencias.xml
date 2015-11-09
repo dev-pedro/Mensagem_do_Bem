@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="alerta"
+        android:title="Ativar Notificação"
+        android:defaultValue="true"
+        android:summary="Marque para receber notificações diárias."/>
+
+    <br.dev_pedrorjas.mensagemdobem.PreferenciaTempo
+        android:key="horario_alarme"
+        android:title="Configure a hora do alerta"
+        android:defaultValue="10:00"
+        android:summary="Configure o horário desejado para recebê-las."
+        android:dependency="alerta"/>
+</PreferenceScreen>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LolliPop" parent="Theme.AppCompat.Light">
+        <!--Customize ypur theme here-->
+        <item name="android:logo">@drawable/ic_launcher</item>
+        <item name="android:textColorPrimary">@color/cor_texto_primaria</item>
+        <item name="colorPrimary">@color/cor_primaria</item>
+
+        <item name="colorAccent">@color/cor_acentuada</item>
+        <item name="android:textColor">@color/cor_texto</item>
+    </style>
+
+    <style name="KitKat" parent="android:Theme.Holo.Light.NoActionBar">
+
+    </style>
+
+    <drawable name="luz_on">@drawable/ic_lightbulb_on_24dp</drawable>
+    <drawable name="luz_off">@drawable/ic_lightbulb_off_24dp</drawable>
+
+</resources>

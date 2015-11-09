@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+
+    <release version="1.0.4" versioncode="104">
+        <change>Added new messages</change>
+        <change>Catalog with 206 mensages</change>
+        <change>Added this update log</change>
+    </release>
+
+    <release version="1.0.3" versioncode="103">
+        <change>Added menu to set time from any screen</change>
+        <change>Added new messages</change>
+        <change>Catalog with 180 mensagens</change>
+    </release>
+
+    <releaseold version="1.0.2" versioncode="102">
+        <change>Fixed: a bug fix</change>
+    </releaseold>
+
+    <releaseold version="1.0.1" versioncode="100">
+        <change>Added new messages</change>
+        <change>Catalog with 150 mensagens</change>
+    </releaseold>
+
+    <releaseold version="1.0.0" versioncode="100">
+        <change>Mensagem do Bem</change>
+        <change>Designed for the well being of your soul</change>
+        <change>Receive messages and share daily</change>
+        <change>Set the best time to receive your messages</change>
+        <change>Catalog with mensagens</change>
+    </releaseold>
+
+
+
+</changelog>
+
+

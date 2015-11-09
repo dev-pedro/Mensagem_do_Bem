@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cor_texto_primaria">#ffffffff</color>
+    <color name="cor_primaria">#00a2d6</color><!--menu seleção-->
+    <color name="cor_primaria_escura">#1e1e1e</color><!--Barra superior-->
+    <color name="cor_primaria_selecao">#ffe9b10a</color>
+    <color name="cor_acentuada">#00a2d6</color>
+    <color name="cor_acentuada_escura">#f50057</color>
+    <color name="cor_acentuada_selecao">#ff80ab</color>
+    <color name="cor_texto">#1e1e1e</color>
+    <color name="plano_fundo">#ffffffff</color>
+
+    <color name="texto_branco">#ffffff</color>
+    <color name="texto_preto">#000000</color>
+
+</resources>

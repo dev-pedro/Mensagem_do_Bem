@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Botões-->
+    <string name="app_name">Mensagem do Bem</string>
+    <string name="mensagem_dia">Clique e leia a mensagem do dia</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="activity_lista_mensagem">Lista de Mensagem</string>
+    <string name="activity_ver_mensagem">Ler Mensagem</string>
+    <string name="btn_contato">Contato</string>
+    <string name="btn_avaliar">Avaliar</string>
+    <string name="btn_compartilhar">Compartilhar</string>
+    <string name="btn_ler_msg">Ler Mensagem</string>
+
+
+    <!--Informativos-->
+    <string name="info_main_mensagem">● Use o menu para acessar as mensagens dos dias anteriores.\n\n● Cofigure o melhor horário para receber a notificação com a mensagem do dia.\n\n● Compartilhe à vontade e com quem quiser.\n\nBoa leitura.</string>
+    <string name="info_lista_mensagem">● De inicio você terá 5 mensagens, as demais serão liberadas uma por dia.\n\n● As mensagens anteriormente recebidas aparecerão aqui.\n\n● Conforme os dias passarem, a lista de mensagens aumentará, assim você poderá revê-las e compartilhá-las.</string>
+    <string name="version">Versão: </string>
+    <string name="check_box_não_mostre">Não mostre novamente</string>
+    <string name="texto_sobre">Este aplicativo foi desenvolvido com o pensamento de levar à você palavras de otimismo e reflexão, mensagens de pensadores conhecidos e desconhecidos.\n O objetivo é ajudar a fazer com que seu dia seja um pouco melhor, esse é o meu desejo. \n\n</string>
+
+    <!--Links-->
+    <string name="link_app">https://play.google.com/store/apps/details?id=br.dev_pedrorjas.mensagemdobem</string>
+    <string name="email_contato">dev.pedro.rjas@gmail.com</string>
+    <string name="developer">Desenvolvedor: Pedro Henrique\nemail: dev.pedro.rjas@gmail.com</string>
+
+
+    <string name="title_changelog">Alterações</string>
+    <string name="changelog_close">Fechar</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Botões-->
+    <string name="app_name">Menssage do Bem</string>
+    <string name="mensagem_dia">Click and read the message of the day</string>
+    <string name="btn_confirmar">OK</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="activity_lista_mensagem">List of Message</string>
+    <string name="activity_ver_mensagem">Read Message</string>
+    <string name="btn_contato">Contact</string>
+    <string name="btn_avaliar">Classify</string>
+    <string name="btn_compartilhar">Share</string>
+    <string name="btn_ler_msg">Read Message</string>
+
+    <!--Informativos-->
+    <string name="info_main_mensagem">● Use the menu to access the messages from previous days.\n\n● Cofigure the best time to receive the notification with the message of the day.\n\n● Share the desire and with whom you want.\n\nGood reading.</string>
+    <string name="info_lista_mensagem">● Beginning you have 5 messages, the rest will be released one per day.\n\n● Messages previously received will appear here.\n\n● As the days pass, the message list will increase, so you can review them and share them.</string>
+    <string name="version">Version: </string>
+    <string name="check_box_não_mostre">Do not show again</string>
+    <string name="texto_sobre">This application was developed with the thought of bringing to you words of optimism and reflection, messages of thinkers known and unknown. The goal is to help make your day a little better, this is my desire.\n\n</string>
+
+    <!--Links-->
+    <string name="link_app">https://play.google.com/store/apps/details?id=br.dev_pedrorjas.mensagemdobem</string>
+    <string name="email_contato">dev.pedro.rjas@gmail.com</string>
+    <string name="developer">Developer: Pedro Henrique\nemail: dev.pedro.rjas@gmail.com</string>
+
+    <string name="title_changelog">Change log</string>
+    <string name="changelog_close">Close</string>
+</resources>

@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+    <item android:id="@+id/on_main"
+        android:icon="@drawable/luz_on"
+        android:title="On"
+        android:orderInCategory="3"
+        app:showAsAction="always"
+        android:visible="true"/>
+
+    <item android:id="@+id/off_main"
+        android:icon="@drawable/luz_off"
+        android:title="Off"
+        android:orderInCategory="5"
+        app:showAsAction="always"
+        android:visible="false"/>
+
+    <item android:id="@+id/trocar"
+        android:icon="@drawable/ic_rotate_3d_white_24dp"
+        android:title="Trocar"
+        android:orderInCategory="10"
+        app:showAsAction="always"
+        android:visible="false"/>
+
+    <item android:id="@+id/compartilhar"
+        android:icon="@drawable/ic_share_white_24dp"
+        android:title="Compartilhar"
+        android:orderInCategory="20"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/buscar"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="Lista de Mensagem"
+        android:orderInCategory="30"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/configuar"
+        android:icon="@drawable/ic_alarm_white_24dp"
+        android:title="Configurar"
+        android:orderInCategory="40"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/sobre"
+        android:icon="@drawable/ic_information_outline_white_24dp"
+        android:title="Sobre"
+        android:orderInCategory="50"
+        app:showAsAction="never" />
+
+</menu>
